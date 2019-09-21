@@ -1,0 +1,78 @@
+
+body{
+  display: flex;
+  flex-direction: column;
+  align-content: center; 
+  font-family: 'Source Serif Pro', serif;
+  margin-left: 0px;
+  margin-right: 0px;
+  }
+  h1{
+    font-size: 120px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    text-align: center;
+    font-family: 'Monofett', cursive;
+  }
+.welcome{
+  text-align: center;
+  margin-left: 25px;
+  margin-right: 25px;
+  margin-top: 0px;
+  font-size: 20px;
+}
+
+.timeWelcome {
+  margin-bottom: 0px;
+}
+header{
+  display: flex;
+  height: 49px;
+  margin-top: 0px; 
+  background-color: black; 
+  justify-content: flex-start;
+  font-family: 'Big Shoulders Display', cursive;
+}
+.gh1{
+  margin-left: 0px;
+}
+.linkedIn{
+  color: white;
+  font-size: 12px;
+  text-decoration: none;
+  margin-left: 10px;
+  margin-top: 17px;
+  font-family: 'Arvo', serif;
+}
+.git{
+  color: white;
+  font-size: 12px;
+  text-decoration: none;
+  margin-left: 2px;
+  margin-top: 17px;
+  font-family: 'Arvo', serif;
+}
+
+.contact{
+  color: white;
+  font-size: 12px;
+  text-decoration: none;
+  margin-left: 3px;
+  margin-top: 17px;
+  font-family: 'Arvo', serif;
+}
+.googleContact{
+  margin-top: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+h2{
+  font-family: 'Monofett', cursive;
+  font-size: 50px;
+  text-align: center;
+}
+footer{
+  height: 49px;
+  background-color: black;
+}
